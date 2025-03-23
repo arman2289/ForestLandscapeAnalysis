@@ -9,6 +9,9 @@ This folder contains visualization images for forest landscape analysis includin
  ## Visualizations
 
 The package includes tools for generating visualizations similar to these examples:
+## Visualizations
+
+The package includes tools for generating visualizations similar to these examples:
 
 ![Fragmentation Framework](images/fragmentation-framework-fig1.jpg)
 *A theoretical framework of forest fragmentation and its consequences*
