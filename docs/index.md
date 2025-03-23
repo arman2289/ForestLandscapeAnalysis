@@ -6,6 +6,17 @@ Welcome to the documentation for the Forest Landscape Analysis package.
 
 This package provides tools for analyzing forest landscape dynamics and fragmentation using remote sensing data. The methodologies implemented are based on research studies of the Western Ghats in India, a biodiversity hotspot experiencing significant forest changes.
 
+## Research Applications
+
+The tools provided by this package can be used for:
+
+- Land use change analysis: Track changes in forest cover over time
+- Fragmentation quantification: Classify forest into interior, edge, perforated, etc.
+- Spatial metrics computation: Calculate metrics to characterize landscape patterns
+- Visualization: Create informative plots and maps of forest changes
+- Conservation planning: Identify priority areas for conservation efforts
+
+
 ## Installation
 
 ```bash
@@ -24,13 +35,3 @@ change_rate = analyzer.calculate_change_rate(
     time_diff=43    # Time difference in years
 )
 print(f"Annual change rate: {change_rate:.2f}% per year")
-
-## Research Applications
-
-The tools provided by this package can be used for:
-
-- Land use change analysis: Track changes in forest cover over time
-- Fragmentation quantification: Classify forest into interior, edge, perforated, etc.
-- Spatial metrics computation: Calculate metrics to characterize landscape patterns
-- Visualization: Create informative plots and maps of forest changes
-- Conservation planning: Identify priority areas for conservation efforts
