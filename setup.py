@@ -11,12 +11,12 @@ setup(
         "matplotlib>=3.4.0",
         "scikit-learn>=1.0.0",
     ],
-    author="Your Name",  # Replace with your name
-    author_email="your.email@example.com",  # Replace with your email
+    author="Arman",  # Updated with your name
+    author_email="your.email@example.com",  # Replace with your actual email
     description="Python tools for analyzing forest landscape dynamics and fragmentation",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/ForestLandscapeAnalysis",  # Replace with your username
+    url="https://github.com/arman2289/ForestLandscapeAnalysis",  # Updated with your username
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
