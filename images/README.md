@@ -9,12 +9,9 @@ This folder contains visualization images for forest landscape analysis includin
  ## Visualizations
 
 The package includes tools for generating visualizations similar to these examples:
-## Visualizations
-
-The package includes tools for generating visualizations similar to these examples:
 
 ![Fragmentation Framework](images/fragmentation-framework-fig1.jpg)
-*A theoretical framework of forest fragmentation and its consequences*
+*A theoretical framework of forest fragmentation *
 
 ![Land Use Change Analysis](images/land-use-change-1973-2016-fig5.jpg)
 *Land use change in Uttara Kannada district from 1973 to 2016*
