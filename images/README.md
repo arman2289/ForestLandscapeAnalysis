@@ -5,19 +5,19 @@ This folder contains visualization images for forest landscape analysis includin
 - Land use change maps
 - Temporal analysis of forest cover
 - Methodological diagrams
-  
- ## Visualizations
+- 
+  ## Visualizations
 
 The package includes tools for generating visualizations similar to these examples:
 
-![Fragmentation Framework](images/fragmentation-framework-fig1.jpg)
-*A theoretical framework of forest fragmentation *
+![Fragmentation Framework](https://github.com/arman2289/ForestLandscapeAnalysis/blob/main/images/A%20theoretical%20framework%20of%20fragmentation.png)
+*A theoretical framework of forest fragmentation and its consequences*
 
-![Land Use Change Analysis](images/land-use-change-1973-2016-fig5.jpg)
-*Land use change in Uttara Kannada district from 1973 to 2016*
-
-![Forest Fragmentation Analysis](images/forest-fragmentation-landscape-fig7.jpg)
+![Forest Fragmentation Analysis](https://github.com/arman2289/ForestLandscapeAnalysis/blob/main/images/Forest%20fragmentation1979-2013.png)
 *Forest fragmentation at landscape level from 1979 to 2013*
 
-![Methodology Framework](images/lulc-fragmentation-methodology-fig3.jpg)
+![Land Use Analysis](https://github.com/arman2289/ForestLandscapeAnalysis/blob/main/images/Land%20use%20analysis%201979-2013.png)
+*Land use analysis from 1979 to 2013*
+
+![Methodology Framework](https://github.com/arman2289/ForestLandscapeAnalysis/blob/main/images/Method%20for%20lulc%20and%20fragmentation.png)
 *Methodology for LULC and fragmentation analysis*
