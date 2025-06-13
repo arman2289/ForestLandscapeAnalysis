@@ -1,4 +1,7 @@
 # Forest Landscape Analysis
+**Author**: Arman Shaikh  
+**passport ID**: Y5625646  
+**GitHub Username**: [@arman2289](https://github.com/arman2289)
 
 Python tools for analyzing forest landscape dynamics, fragmentation, and ecological metrics from remote sensing data.
 
